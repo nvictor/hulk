@@ -193,11 +193,11 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>columnCount</key>
-	<integer>90</integer>
+	<integer>80</integer>
 	<key>name</key>
 	<string>The Hulk</string>
 	<key>rowCount</key>
-	<integer>50</integer>
+	<integer>24</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
